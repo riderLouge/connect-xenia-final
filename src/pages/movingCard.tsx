@@ -19,25 +19,18 @@ const testimonials = [
   {
     quote:
       "I travel frequently for work, and I always rely on ConnectXenia to find the best hotels at the best prices. Their 24/7 customer support is exceptional – they're always there to assist me, no matter the time zone. With ConnectXenia, I know I'm in good hands.",
-    name: "Charles Dickens",
+    name: "Sanjay",
     title: "",
   },
   {
     quote:
       "Managing corporate travel for our team has never been easier since we started using ConnectXenia. Their customized reporting tools give us valuable insights into our travel expenses, while their optimized user management system simplifies the entire process. Thanks to ConnectXenia, we can focus on what matters most – our business.",
-    name: "William Shakespeare",
+    name: "Anjali",
     title: "",
   },
   {
     quote: "I've been using ConnectXenia for all my business travel needs, and I couldn't be happier. Their seamless booking experience, extensive hotel network, and comprehensive travel tracking make my trips stress-free and efficient. Highly recommended!",
-    name: "Edgar Allan Poe",
+    name: "Varun",
     title: "",
-  },
-
-  {
-    quote:
-      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-    name: "Herman Melville",
-    title: "Moby-Dick",
   },
 ];

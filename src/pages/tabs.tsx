@@ -94,7 +94,7 @@ export default function TabsDemo() {
   ];
 
   return (
-    <div className="h-[20rem] md:h-[50rem] perspective-1000px relative flex flex-col max-w-5xl mx-auto w-full items-start justify-start my-40">
+    <div className="h-[45rem] md:h-[45rem] perspective-1000px relative flex flex-col max-w-5xl mx-auto w-full items-start justify-start mb-10" id="features">
       <Tabs tabs={tabs} />
     </div>
   );
@@ -104,7 +104,7 @@ const DummyContent1 = () => {
   return (
     <div className="relative h-[30%] md:h-[45%] mt-8">
         <p className="text-white font-normal text-sm md:text-base">With ConnectXenia, booking accommodations for your business travel needs has never been easier. Our platform offers a user-friendly interface where you can effortlessly search for and book hotels at the best prices available.</p>
-        <Lottie animationData={animation1}/>
+        <Lottie animationData={animation1} />
      </div>
   );
 };

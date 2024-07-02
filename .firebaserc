@@ -1,5 +1,10 @@
 {
   "projects": {
-    "default": "connect-xenia-final"
-  }
+    "default": "connect-xenia-final-54ffc",
+    "test": "connectxenia-test",
+    "final": "connect-xenia-final-54ffc"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }

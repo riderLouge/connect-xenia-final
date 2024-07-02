@@ -60,7 +60,7 @@ export const FlipWords = ({
           position: "absolute",
         }}
         className={cn(
-          " inline-block relative text-left text-white dark:text-white px-2",
+          " inline-block relative text-left text-white dark:text-white ",
           className
         )}
         key={currentWord}

@@ -11,7 +11,7 @@ import FlipWordsDemo from "./flipWords";
 import { SparklesCore } from "@/components/ui/sparkles";
 const content = [
   {
-    title: "Efficiency Bookings",
+    title: "Efficient Bookings",
     description:
       "Our intuitive interface makes booking accommodations and managing travel expenses a breeze, allowing you to focus on what matters most – your business.",
     content: (
