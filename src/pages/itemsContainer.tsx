@@ -18,7 +18,7 @@ const ItemsContainer = () => {
       <Image src={connectxeniaLogo} alt="ConnectXenia Logo" layout="fill" objectFit="contain" style={{backgroundColor:"white", borderRadius:"10px",padding:"2px"}}/>
       </div>
       <div className="p-4  bg-black ">
-        <h2 className="text-lg font-bold text-orange-400">Yukra Private Limited</h2>
+        <h2 className="text-lg font-bold text-orange-400">Yukra Projects Private Limited</h2>
         <p className=" text-white">The Old Casino</p>
         <p className=" text-white">28 Fourth Avenue, Hove, East Sussex, United Kingdom, BN3 2PJ</p>
         <p className=" text-white">Tel: 01273 739592</p>
